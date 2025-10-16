@@ -3,7 +3,7 @@
  * Plugin Name: KISS Coupon Cleanup
  * Description: Automatically deletes expired WooCommerce coupons in batches via cron
  * Version: 1.0.0
- * Author: Neochrome
+ * Author: KISS Plugins
  * Requires at least: 5.8
  * Requires PHP: 7.4
  * WC requires at least: 6.0

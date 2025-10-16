@@ -1,4 +1,4 @@
-# Neochrome Coupon Cleanup
+# KISS Coupon Cleanup
 
 A WordPress plugin that automatically deletes expired WooCommerce coupons.
 
